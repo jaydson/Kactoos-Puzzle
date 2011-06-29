@@ -1,0 +1,33 @@
+h1. Kactoos Puzzle
+
+http://jaydson.org
+Mantainer: Jaydson Gomes <jayalemao@gmail.com>
+
+Kactoos Puzzle is a simple demonstration of using Kactoos API to build a simple Puzzle game.
+The logic of game is load image products from Kactoos and build Puzzles with them.
+
+* This is a demonstration ;)
+
+This project is open sourced under the MIT license
+and can be used and modified by anyone. 
+
+The requirements are:
+* PHP
+* cURL (http://www.php.net/manual/en/curl.requirements.php)
+
+h2. Third Party code used:
+* jQuery Library (included)
+* jqpuzzle jQuery Plugin (included)
+
+h2. Up & Running in a few steps
+Just open index file
+
+h2. How can you help?
+* Testing and sending Tickets!
+* Resolving existing tickets!
+* Spreading the world about the project!
+
+h2. How can I get Help?
+* First the "project's wiki":http://wiki.github.com/jaydson/Kactoos-Puzzle
+* You can send a message to anyone involved into the project (throught GitHub)
+* My Blog Post http://jaydson.org/kactoos-demos
